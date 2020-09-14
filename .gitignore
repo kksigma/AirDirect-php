@@ -1,5 +1,2 @@
 .idea
-*.iml
-composer.lock
 /vendor/
-.php.cs.cache
